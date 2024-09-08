@@ -40,11 +40,49 @@ Manipal Institute of Technology, *2016 - 2020*
 
 
 ## Skills
-- **Areas of Expertise**: Natural Language Processing, Machine Learning, Time Series Analysis, Computer Vision, Deep Learning, Reinforcement Learning
-- **Languages**: Python, PySpark, R, SQL, Java, C++, C
-- **Data Science Tools**: NumPy, Pandas, Scikit-learn, TensorFlow, Keras, PyTorch
-- **Cloud Services**: Google Cloud Platform
-- **Data Visualization**: Matplotlib, Seaborn
+### Areas of Expertise
+![NLP](https://img.shields.io/badge/NLP-brightgreen) 
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-orange) 
+![Time Series Analysis](https://img.shields.io/badge/Time_Series_Analysis-yellow) 
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-lightblue) 
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-purple) 
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-lightgrey) 
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![PySpark](https://img.shields.io/badge/PySpark-orange)
+![R](https://img.shields.io/badge/R-lightgreen)
+![SQL](https://img.shields.io/badge/SQL-lightblue)
+![Java](https://img.shields.io/badge/Java-red)
+![C++](https://img.shields.io/badge/C++-blue)
+![C](https://img.shields.io/badge/C-lightgrey)
+
+### Data Science Tools
+![NumPy](https://img.shields.io/badge/NumPy-nd-lightgreen)
+![Pandas](https://img.shields.io/badge/Pandas-orange)
+![Scikit-learn](https://img.shields.io/badge/Scikit-learn-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)
+![Keras](https://img.shields.io/badge/Keras-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-lightgrey)
+
+### Cloud Services
+![Google Cloud](https://img.shields.io/badge/GCP-lightblue)
+
+### Data Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-lightgreen)
+
+### Big Data Technologies
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-red)
+![Hadoop](https://img.shields.io/badge/Hadoop-green)
+
+### Version Control
+![Git](https://img.shields.io/badge/Git-orange)
+![GitHub](https://img.shields.io/badge/GitHub-lightgrey)
+
+### Collaboration Tools
+![Jira](https://img.shields.io/badge/Jira-blue)
+![Confluence](https://img.shields.io/badge/Confluence-lightgrey)
 - **Big Data Technologies**: Apache Spark, Hadoop
 - **Version Control**: Git, GitHub
 - **Collaboration Tools**: Jira, Confluence
