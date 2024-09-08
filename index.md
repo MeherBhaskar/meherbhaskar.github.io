@@ -3,12 +3,12 @@ layout: default
 
 ---
 
-
 ![Meher Bhaskar Madiraju](assets/images/profile.jpeg){: .profile-image }
 
 **Email:** [meherbhaskar.madiraju@gmail.com](mailto:meherbhaskar.madiraju@gmail.com)  
 **Location:** Bentonville, Arkansas, USA  
-**LinkedIn:** [linkedin.com/in/meherbhaskar](https://linkedin.com/in/meherbhaskar)
+**LinkedIn:** [linkedin.com/in/meherbhaskar](https://linkedin.com/in/meherbhaskar)  
+**Resume:** [View My Resume](assets/documents/my_resume.pdf) 
 
 ## About Me
 
@@ -31,10 +31,10 @@ Throughout my career, I have always been driven by a passion for using data to s
 * During my internship, I designed and developed a ML system for predicting customer purchase propensity. This was leveraged in personalized email campaigns and greatly improving engagement metrics.
 
 ## Education    
-**Master of Science in Analytics (Computational Data Science)**  
+- **Master of Science in Analytics (Computational Data Science)**  
 Georgia Institute of Technology, *2022 - 2024*
 
-**Bachelor of Technology in Computer Science and Engineering**  
+- **Bachelor of Technology in Computer Science and Engineering**  
 Manipal Institute of Technology, *2016 - 2020*
 
 
