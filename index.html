@@ -1,74 +1,66 @@
+---
+layout: default
+title: Meher Bhaskar Madiraju
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
     <title>Meher Bhaskar Madiraju</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 </head>
 <body>
-    <div class="container">
-        <header class="text-center my-5">
-            <h1 class="display-4">Meher Bhaskar Madiraju</h1>
-            <p class="lead">Atlanta, Georgia, USA</p>
-            <p>Ph: +1 470-917-7249 | <a href="mailto:meherbhaskar.madiraju@gmail.com">meherbhaskar.madiraju@gmail.com</a> | <a href="https://linkedin.com/in/meherbhaskar" target="_blank">LinkedIn</a></p>
-        </header>
-        
-        <section class="mb-5">
-            <h2 class="text-primary">Technical Experience</h2>
-            
-            <h3 class="text-secondary">Data Scientist</h3>
+    <header>
+        <h1>Welcome to My Profile Page!</h1>
+        <p class="contact-info">
+            <strong>Phone:</strong> +1 470-917-7249<br>
+            <strong>Email:</strong> <a href="mailto:meherbhaskar.madiraju@gmail.com">meherbhaskar.madiraju@gmail.com</a><br>
+            <strong>Location:</strong> Atlanta, Georgia, USA<br>
+            <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/meherbhaskar">linkedin.com/in/meherbhaskar</a>
+        </p>
+    </header>
+
+    <section class="about">
+        <h2>About Me</h2>
+        <p>Hello! I'm Meher Bhaskar Madiraju, a Data Scientist at Walmart Global Tech based in Bentonville, Arkansas. I have a Master's in Analytics from Georgia Tech and a Bachelor's in Computer Science. My passion lies in data analysis and machine learning, and I'm constantly exploring new technologies to enhance my skills.</p>
+    </section>
+
+    <section class="experience">
+        <h2>Technical Experience</h2>
+        <div class="card">
+            <h3>Data Scientist</h3>
             <h4>Walmart Global Tech, Bentonville, AR</h4>
             <h5>July 2023 — Present</h5>
-            <p>At Walmart, I focus on enhancing forecasting models that improve accuracy and drive strategic business decisions. I have implemented systems to align machine learning outputs with business constraints, ensuring reliable results for stakeholders.</p>
-
-            <h3 class="text-secondary">Senior Analyst</h3>
+            <p>Developed sales and profit forecasting models that improved accuracy by 15%, enhancing data-driven business decisions.</p>
+        </div>
+        <div class="card">
+            <h3>Senior Analyst</h3>
             <h4>Ugam Solutions Inc., Atlanta, GA</h4>
             <h5>May 2022 — July 2023</h5>
-            <p>In this role, I developed automated data pipelines and machine learning models that processed large datasets to identify key sales drivers and customer insights. My work included building a scalable NLP pipeline and a robust time series framework that significantly improved forecasting accuracy.</p>
-
-            <h3 class="text-secondary">Analyst</h3>
+            <p>Built a scalable pipeline for processing 5 TB of data and implementing ML algorithms to identify key sales drivers.</p>
+        </div>
+        <div class="card">
+            <h3>Analyst</h3>
             <h4>Ugam Solutions Inc., Bengaluru, India</h4>
             <h5>July 2020 — May 2022</h5>
-            <p>I created numerous customer segmentation models to enhance acquisition strategies and optimized marketing spend through media channel analysis. Additionally, I designed frameworks to mitigate biases in machine learning models and developed automated dashboards for campaign performance tracking.</p>
+            <p>Developed 40+ customer look-alike models, improving customer acquisition by an average of 70%.</p>
+        </div>
+    </section>
 
-            <h3 class="text-secondary">Consultant</h3>
-            <h4>Ugam Solutions Inc., Bengaluru, India</h4>
-            <h5>January 2020 — July 2020</h5>
-            <p>I automated reporting processes to assess the impact of Covid-19 on KPIs and developed a customer attrition model that successfully improved retention rates.</p>
+    <section class="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Programming: Python, PySpark, R, SQL</li>
+            <li>Data Science Tools: NumPy, Pandas, Scikit-learn, TensorFlow</li>
+            <li>Cloud Services: AWS, Google Cloud Platform</li>
+            <li>Other: Natural Language Processing, Machine Learning, Time Series Analysis</li>
+        </ul>
+    </section>
 
-            <h3 class="text-secondary">Summer Intern</h3>
-            <h4>Ugam Solutions, Bengaluru, India</h4>
-            <h5>May 2019 — July 2019</h5>
-            <p>During my internship, I developed a forecasting model for customer purchase behavior, which enhanced personalized email campaigns and improved engagement metrics.</p>
-        </section>
-
-        <section class="mb-5">
-            <h2 class="text-primary">Skills</h2>
-            <ul>
-                <li><strong>Programming:</strong> Python, PySpark, R, SQL</li>
-                <li><strong>Data Science Tools:</strong> NumPy, Pandas, SciPy, Scikit-learn, Keras, TensorFlow, PyTorch, Tableau</li>
-                <li><strong>Cloud Services:</strong> AWS, Google Cloud Platform</li>
-                <li><strong>Other:</strong> Natural Language Processing (NLP), Deep Learning, Machine Learning (ML), Statistical Modeling, Time Series Analysis, Big Data</li>
-            </ul>
-        </section>
-
-        <section>
-            <h2 class="text-primary">Education</h2>
-            <ul>
-                <li><strong>Master of Science in Analytics</strong>, Georgia Institute of Technology (2022 - 2024)</li>
-                <li><strong>Bachelor of Technology in Computer Science and Engineering</strong>, Manipal Institute of Technology (2016 - 2020)</li>
-            </ul>
-        </section>
-
-        <footer class="text-center mt-5">
-            <p>&copy; 2024 Meher Bhaskar Madiraju. Thank you for visiting my profile!</p>
-        </footer>
-    </div>
-
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <footer>
+        <p>Thank you for visiting my profile!</p>
+    </footer>
 </body>
 </html>
