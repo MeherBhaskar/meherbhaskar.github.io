@@ -40,10 +40,10 @@ Manipal Institute of Technology, *2016 - 2020*
 
 
 ## Skills
+- **Areas of Expertise**: Natural Language Processing, Machine Learning, Time Series Analysis, Computer Vision, Deep Learning, Reinforcement Learning
 - **Languages**: Python, PySpark, R, SQL, Java, C++, C
 - **Data Science Tools**: NumPy, Pandas, Scikit-learn, TensorFlow, Keras, PyTorch
 - **Cloud Services**: Google Cloud Platform
-- **Areas of Expertise**: Natural Language Processing, Machine Learning, Time Series Analysis, Computer Vision, Deep Learning, Reinforcement Learning
 - **Data Visualization**: Matplotlib, Seaborn
 - **Big Data Technologies**: Apache Spark, Hadoop
 - **Version Control**: Git, GitHub
