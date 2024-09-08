@@ -6,7 +6,7 @@ layout: default
 ![Meher Bhaskar Madiraju](assets/images/profile.jpeg){: .profile-image }
 
 
-**📧 Email:** [![Email](https://img.shields.io/badge/email-meherbhaskar.madiraju@gmail.com-blue?style=flat&logo=gmail)](mailto:meherbhaskar.madiraju@gmail.com)  
+**📧 Email:** [![Email](https://img.shields.io/badge/meherbhaskar.madiraju@gmail.com-blue?style=flat&logo=gmail)](mailto:meherbhaskar.madiraju@gmail.com)  
 **🔗 LinkedIn:** [![LinkedIn](https://img.shields.io/badge/MeherBhaskar-blue?style=flat&logo=linkedin)](https://linkedin.com/in/meherbhaskar)  
 **📄 Resume:** [![Resume](https://img.shields.io/badge/View_My_Resume-lightgrey?style=flat&logo=pdf)](assets/documents/my_resume.pdf) 
 
