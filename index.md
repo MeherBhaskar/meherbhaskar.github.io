@@ -5,7 +5,6 @@ title: Meher Bhaskar Madiraju
 
 # Welcome to My Profile Page!
 
-**Phone:** +1 470-917-7249  
 **Email:** [meherbhaskar.madiraju@gmail.com](mailto:meherbhaskar.madiraju@gmail.com)  
 **Location:** Bentonville, Arkansas, USA  
 **LinkedIn:** [linkedin.com/in/meherbhaskar](https://linkedin.com/in/meherbhaskar)
