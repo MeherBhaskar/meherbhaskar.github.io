@@ -5,6 +5,8 @@ title: Meher Bhaskar Madiraju
 
 # Welcome to My Profile Page!
 
+![Meher Bhaskar Madiraju](assets/images/profile.jpeg){: .profile-image }
+
 **Email:** [meherbhaskar.madiraju@gmail.com](mailto:meherbhaskar.madiraju@gmail.com)  
 **Location:** Bentonville, Arkansas, USA  
 **LinkedIn:** [linkedin.com/in/meherbhaskar](https://linkedin.com/in/meherbhaskar)
