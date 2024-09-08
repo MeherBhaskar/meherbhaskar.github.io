@@ -8,7 +8,7 @@ layout: default
 
 **📧 Email:** [![Email](https://img.shields.io/badge/meherbhaskar.madiraju@gmail.com-blue?style=flat&logo=gmail)](mailto:meherbhaskar.madiraju@gmail.com)  
 **🔗 LinkedIn:** [![LinkedIn](https://img.shields.io/badge/MeherBhaskar-blue?style=flat&logo=linkedin)](https://linkedin.com/in/meherbhaskar)  
-**📄 Resume:** [![Resume](https://img.shields.io/badge/View_My_Resume-lightgrey?style=flat&logo=pdf)](assets/documents/my_resume.pdf) 
+**📄 Resume:** [![Resume](https://img.shields.io/badge/View_My_Resume-lightgrey?style=flat&logo=pdf)](assets/documents/Meher Bhaskar Madiraju - Resume.pdf) 
 
 ## 👤 About Me
 As a Data Scientist with 4 years of experience, I thrive on transforming complex data into actionable insights that drive business success. Currently, I am part of the team at Walmart Global Tech, where I focus on developing advanced sales and profit forecasting models. My goal is to enhance not only the accuracy of these models but also their interpretability and actionability, empowering stakeholders to make informed decisions.
