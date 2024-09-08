@@ -47,5 +47,5 @@ Manipal Institute of Technology, *2016 - 2020*
 - **Data Visualization**: Matplotlib, Seaborn
 - **Big Data Technologies**: Apache Spark, Hadoop
 - **Version Control**: Git, GitHub
-- **Collaboration Tools**: Jupyter, Notion, Confluence
+- **Collaboration Tools**: Jira, Confluence
 
