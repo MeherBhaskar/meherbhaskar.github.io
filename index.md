@@ -5,20 +5,19 @@ layout: default
 
 ![Meher Bhaskar Madiraju](assets/images/profile.jpeg){: .profile-image }
 
-**Email:** [meherbhaskar.madiraju@gmail.com](mailto:meherbhaskar.madiraju@gmail.com)  
-**Location:** Bentonville, Arkansas, USA  
-**LinkedIn:** [linkedin.com/in/meherbhaskar](https://linkedin.com/in/meherbhaskar)  
-**Resume:** [View My Resume](assets/documents/my_resume.pdf) 
+**📧 Email:** [![Email](https://img.shields.io/badge/email-meherbhaskar.madiraju@gmail.com-blue?style=flat&logo=gmail)](mailto:meherbhaskar.madiraju@gmail.com)  
+**📍 Location:** ![Location](https://img.shields.io/badge/location-Bentonville,_Arkansas-green)  
+**🔗 LinkedIn:** [![LinkedIn](https://img.shields.io/badge/linkedin.com/in/meherbhaskar-blue?style=flat&logo=linkedin)](https://linkedin.com/in/meherbhaskar)  
+**📄 Resume:** [![Resume](https://img.shields.io/badge/View_My_Resume-lightgrey?style=flat&logo=pdf)](assets/documents/my_resume.pdf) 
 
-## About Me
-
+## 👤 About Me
 As a Data Scientist with 4 years of experience, I thrive on transforming complex data into actionable insights that drive business success. Currently, I am part of the team at Walmart Global Tech, where I focus on developing advanced sales and profit forecasting models. My goal is to enhance not only the accuracy of these models but also their interpretability and actionability, empowering stakeholders to make informed decisions.
 
 Before joining Walmart, I worked at Merkle, where I started as a summer intern and gradually progressed to a Senior Analyst. My experiences ranged from creating machine learning systems that identified key sales drivers to developing models for customer churn and product pain points. I also built automated data pipelines and established robust time series frameworks, significantly improving forecasting accuracy. My role allowed me to explore various aspects of data science, including natural language processing (NLP) and customer segmentation, which helped refine marketing strategies and optimize marketing investment allocation.
 
 Throughout my career, I have always been driven by a passion for using data to solve real-world problems. Whether automating reporting processes to assess the impact of COVID-19 on business performance or enhancing personalized email campaigns to improve customer engagement, I enjoy the challenge of turning data into meaningful stories that guide strategic decisions.
 
-## Technical Experience
+## 🛠️ Technical Experience
 
 ### Data Scientist at Walmart Global Tech
 * My focus is on building forecasting models that generate forecasts to drive strategic business decisions. I also work on creating controls to align machine learning outputs with business constraints, ensuring reliable results for stakeholders.
@@ -30,7 +29,7 @@ Throughout my career, I have always been driven by a passion for using data to s
 
 * During my internship, I designed and developed a ML system for predicting customer purchase propensity. This was leveraged in personalized email campaigns and greatly improving engagement metrics.
 
-## Education    
+## 🎓 Education    
 - **Master of Science in Analytics (Computational Data Science)**  
 Georgia Institute of Technology, *2022 - 2024*
 
@@ -39,7 +38,7 @@ Manipal Institute of Technology, *2016 - 2020*
 
 
 
-## Skills
+##  🛠️ Skills
 - **Areas of Expertise**: Natural Language Processing, Machine Learning, Time Series Analysis, Computer Vision, Deep Learning, Reinforcement Learning
 - **Languages**: Python, PySpark, R, SQL, Java, C++, C
 - **Data Science Tools**: NumPy, Pandas, Scikit-learn, TensorFlow, Keras, PyTorch
