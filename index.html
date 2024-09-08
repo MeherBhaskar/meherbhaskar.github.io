@@ -8,8 +8,7 @@ title: Meher Bhaskar Madiraju
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>Meher Bhaskar Madiraju</title>
+    <title>{{ page.title }} - {{ site.title }}</title>
 </head>
 <body>
     <header>
@@ -31,7 +30,7 @@ title: Meher Bhaskar Madiraju
         <h2>Technical Experience</h2>
         <div class="card">
             <h3>Data Scientist</h3>
-            <h4>Walmart Global Tech, Bentonville, AR</h4>
+            <h4>Walmart Global Tech, Atlanta, GA</h4>
             <h5>July 2023 — Present</h5>
             <p>Developed sales and profit forecasting models that improved accuracy by 15%, enhancing data-driven business decisions.</p>
         </div>
@@ -52,15 +51,16 @@ title: Meher Bhaskar Madiraju
     <section class="skills">
         <h2>Skills</h2>
         <ul>
-            <li>Programming: Python, PySpark, R, SQL</li>
-            <li>Data Science Tools: NumPy, Pandas, Scikit-learn, TensorFlow</li>
-            <li>Cloud Services: AWS, Google Cloud Platform</li>
-            <li>Other: Natural Language Processing, Machine Learning, Time Series Analysis</li>
+            <li><strong>Programming:</strong> Python, PySpark, R, SQL</li>
+            <li><strong>Data Science Tools:</strong> NumPy, Pandas, Scikit-learn, TensorFlow</li>
+            <li><strong>Cloud Services:</strong> AWS, Google Cloud Platform</li>
+            <li><strong>Other:</strong> Natural Language Processing, Machine Learning, Time Series Analysis</li>
         </ul>
     </section>
 
     <footer>
         <p>Thank you for visiting my profile!</p>
+        <p>&copy; {{ site.time | date: '%Y' }} Meher Bhaskar Madiraju</p>
     </footer>
 </body>
 </html>
