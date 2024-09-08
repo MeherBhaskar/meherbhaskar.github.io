@@ -30,22 +30,21 @@ In this role, I developed automated data pipelines and machine learning models t
 *July 2020 — May 2022*  
 I created numerous customer segmentation models to enhance acquisition strategies and optimized marketing spend through media channel analysis. Additionally, I designed frameworks to mitigate biases in machine learning models and developed automated dashboards for campaign performance tracking.
 
-### Consultant, Ugam Solutions Inc. (January 2020 — July 2020, Bengaluru, India)
-*Jan 2020 — July 2020*  
+### Consultant
 **Ugam Solutions Inc., Bengaluru, India**  
-
+*January 2020 — July 2020*  
 I automated reporting processes to assess the impact of Covid-19 on KPIs and developed a customer attrition model that successfully improved retention rates.
 
-### Summer Intern, Ugam Solutions (May 2019 — July 2019, Bengaluru, India)
+### Summer Intern
 **Ugam Solutions Inc., Bengaluru, India**  
 *May 2019 — July 2019*  
 During my internship, I developed a model for forecasting customer purchase propensity, which enhanced personalized email campaigns and improved engagement metrics.
 
 ## Skills
-- **Programming**: Python, PySpark, R, SQL
+- **Programming Languages**: Python, PySpark, R, SQL
 - **Data Science Tools**: NumPy, Pandas, Scikit-learn, TensorFlow
 - **Cloud Services**: AWS, Google Cloud Platform
-- **Other**: Natural Language Processing, Machine Learning, Time Series Analysis
+- **Areas of Expertise**: Natural Language Processing, Machine Learning, Time Series Analysis
 
 ## Thank You!
 Thank you for visiting my profile!
