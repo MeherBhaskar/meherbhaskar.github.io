@@ -7,29 +7,40 @@ title: Meher Bhaskar Madiraju
 
 **Phone:** +1 470-917-7249  
 **Email:** [meherbhaskar.madiraju@gmail.com](mailto:meherbhaskar.madiraju@gmail.com)  
-**Location:** Atlanta, Georgia, USA  
+**Location:** Bentonville, Arkansas, USA  
 **LinkedIn:** [linkedin.com/in/meherbhaskar](https://linkedin.com/in/meherbhaskar)
 
 ## About Me
 
-Hello! I'm Meher Bhaskar Madiraju, a Data Scientist at Walmart Global Tech based in Bentonville, Arkansas. I have a Master's in Analytics from Georgia Tech and a Bachelor's in Computer Science. My passion lies in data analysis and machine learning, and I'm constantly exploring new technologies to enhance my skills.
+Hello! I'm Meher Bhaskar Madiraju, a Data Scientist at Walmart Global Tech based in Bentonville, Arkansas. I have a Master's degree in Analytics from Georgia Tech and a Bachelor's degree in Computer Science. My passion lies in data analysis and machine learning, and I'm constantly exploring new technologies to enhance my skills.
 
 ## Technical Experience
 
 ### Data Scientist
-**Walmart Global Tech, Atlanta, GA**  
+**Walmart Global Tech, Bentonville, AR**  
 *July 2023 — Present*  
-Developed sales and profit forecasting models that improved accuracy by 15%, enhancing data-driven business decisions.
+At Walmart, I focus on building forecasting models that generate forecasts to drive strategic business decisions. I also work on creating controls to align machine learning outputs with business constraints, ensuring reliable results for stakeholders.
 
 ### Senior Analyst
 **Ugam Solutions Inc., Atlanta, GA**  
 *May 2022 — July 2023*  
-Built a scalable pipeline for processing 5 TB of data and implementing ML algorithms to identify key sales drivers.
+In this role, I developed automated data pipelines and machine learning models that processed large datasets to identify key sales drivers and customer insights. My work also included building a scalable NLP pipeline and a robust time series framework that significantly improved forecasting accuracy.
 
 ### Analyst
 **Ugam Solutions Inc., Bengaluru, India**  
 *July 2020 — May 2022*  
-Developed 40+ customer look-alike models, improving customer acquisition by an average of 70%.
+I created numerous customer segmentation models to enhance acquisition strategies and optimized marketing spend through media channel analysis. Additionally, I designed frameworks to mitigate biases in machine learning models and developed automated dashboards for campaign performance tracking.
+
+### Consultant, Ugam Solutions Inc. (January 2020 — July 2020, Bengaluru, India)
+*Jan 2020 — July 2020*  
+**Ugam Solutions Inc., Bengaluru, India**  
+
+I automated reporting processes to assess the impact of Covid-19 on KPIs and developed a customer attrition model that successfully improved retention rates.
+
+### Summer Intern, Ugam Solutions (May 2019 — July 2019, Bengaluru, India)
+**Ugam Solutions Inc., Bengaluru, India**  
+*May 2019 — July 2019*  
+During my internship, I developed a model for forecasting customer purchase propensity, which enhanced personalized email campaigns and improved engagement metrics.
 
 ## Skills
 - **Programming**: Python, PySpark, R, SQL
