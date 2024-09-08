@@ -19,15 +19,15 @@ Throughout my career, I have always been driven by a passion for using data to s
 
 ## 🛠️ Technical Experience
 
-### Data Scientist at Walmart Global Tech
-* My focus is on building forecasting models that generate forecasts to drive strategic business decisions. I also work on creating controls to align machine learning outputs with business constraints, ensuring reliable results for stakeholders.
+- ### Data Scientist at Walmart Global Tech
+  - My focus is on building forecasting models that generate forecasts to drive strategic business decisions. I also work on creating controls to align machine learning outputs with business constraints, ensuring reliable results for stakeholders.
 
-### Sr. Analyst at Merkle Inc  
-* I designed and implemented automated data pipelines and machine learning models that processed large datasets. This work not only highlighted key sales drivers but also provided valuable and actionable business insights. I also had the opportunity to drive the initiative build a scalable NLP pipeline that helped identification of consumer pain points.
+- ### Sr. Analyst at Merkle Inc  
+  - I designed and implemented automated data pipelines and machine learning models that processed large datasets. This work not only highlighted key sales drivers but also provided valuable and actionable business insights. I also had the opportunity to drive the initiative build a scalable NLP pipeline that helped identification of consumer pain points.
 
-* I developed customer segmentation models to enhance acquisition strategies and optimized marketing expenditures through comprehensive media channel analysis. Additionally, I created frameworks to mitigate biases in machine learning models and created automated dashboards for tracking campaign performance.
+  - I developed customer segmentation models to enhance acquisition strategies and optimized marketing expenditures through comprehensive media channel analysis. Additionally, I created frameworks to mitigate biases in machine learning models and created automated dashboards for tracking campaign performance.
 
-* During my internship, I designed and developed a ML system for predicting customer purchase propensity. This was leveraged in personalized email campaigns and greatly improving engagement metrics.
+  - During my internship, I designed and developed a ML system for predicting customer purchase propensity. This was leveraged in personalized email campaigns and greatly improving engagement metrics.
 
 ## 🎓 Education    
 - **Master of Science in Analytics (Computational Data Science)**  
