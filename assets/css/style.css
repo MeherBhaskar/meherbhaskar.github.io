@@ -1,31 +1,66 @@
+/* General body styles */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    line-height: 1.6;
+    background-color: #f9f9f9; /* Light background for the page */
+    color: #333; /* Dark text color */
 }
 
+/* Header styles */
 header {
-    background: #f4f4f4;
     padding: 20px;
     text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
 }
 
+/* Main content styles */
 main {
+    max-width: 800px;  /* Limit the width of the main content */
+    margin: 20px auto; /* Center align the main content */
     padding: 20px;
+    background: white;  /* White background for content area */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
 }
 
+/* Profile image styles */
 .profile-image {
-    border-radius: 50%; /* Makes the image circular */
-    width: 150px;       /* Set the width */
-    height: 150px;      /* Set the height */
-    margin: 10px 0;     /* Add margin */
+    border-radius: 50%; /* Circular image */
+    width: 150px;       /* Fixed width */
+    height: 150px;      /* Fixed height */
+    margin: 20px 0;     /* Margin for spacing */
+    display: block;      /* Center the image */
+    margin-left: auto;
+    margin-right: auto;
 }
 
+/* Footer styles */
 footer {
     text-align: center;
     padding: 10px;
-    background: #f4f4f4;
-    position: fixed;
+    position: relative;
     width: 100%;
     bottom: 0;
+    font-size: 0.9em; /* Slightly smaller font size */
+    color: #666; /* Lighter text color */
+}
+
+/* Responsive styles */
+@media (max-width: 600px) {
+    header, footer {
+        text-align: center;
+        padding: 15px; /* Less padding on smaller screens */
+    }
+
+    main {
+        margin: 10px; /* Less margin on smaller screens */
+        padding: 15px; /* Less padding */
+    }
+
+    .profile-image {
+        width: 120px; /* Smaller image for mobile */
+        height: 120px; /* Smaller height for mobile */
+    }
 }
