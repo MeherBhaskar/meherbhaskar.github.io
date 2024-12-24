@@ -31,14 +31,10 @@ Throughout my career, I have always been driven by a passion for using data to s
 ## 🛠️ Technical Experience
 
 - ### Data Scientist at Walmart Global Tech
-  - My focus is on building forecasting models that generate forecasts to drive strategic business decisions. I also work on creating controls to align machine learning outputs with business constraints, ensuring reliable results for stakeholders.
+As a Data Scientist at Walmart Global Tech, I develop advanced forecasting models that drive key business decisions. My work focuses on creating machine learning-based models to predict sales, optimize inventory, and refine pricing strategies. I collaborate with cross-functional teams to deliver actionable insights that enhance operational efficiency and improve customer satisfaction. By utilizing tools like Python, PySpark, and Google Cloud, I help streamline decision-making processes and support supply chain management.
 
 - ### Senior Analyst at Merkle Inc  
-  - I designed and implemented automated data pipelines and machine learning models that processed large datasets. This work not only highlighted key sales drivers but also provided valuable and actionable business insights. I also had the opportunity to drive the initiative build a scalable NLP pipeline that helped identification of consumer pain points.
-
-  - I developed customer segmentation models to enhance acquisition strategies and optimized marketing expenditures through comprehensive media channel analysis. Additionally, I created frameworks to mitigate biases in machine learning models and created automated dashboards for tracking campaign performance.
-
-  - During my internship, I designed and developed a ML system for predicting customer purchase propensity. This was leveraged in personalized email campaigns and greatly improving engagement metrics.
+At Merkle, I designed and implemented automated data pipelines and machine learning models to process large datasets and uncover actionable insights. I developed customer segmentation models that enhanced marketing strategies and optimized campaign performance. My work also involved building predictive models for customer behavior, contributing to improved targeting and customer retention. I used tools such as Python, SQL, and R, alongside visualization platforms like Tableau, to communicate findings and drive business impact.
 
 ## 🎓 Education    
 - **Master of Science in Analytics (Computational Data Science)**  
