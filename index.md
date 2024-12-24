@@ -10,13 +10,6 @@ layout: default
 **🔗 LinkedIn:** [![LinkedIn](https://img.shields.io/badge/MeherBhaskar-blue?style=flat&logo=linkedin)](https://linkedin.com/in/meherbhaskar)  
 **📄 Resume:** [![Resume](https://img.shields.io/badge/View_My_Resume-lightgrey?style=flat&logo=pdf)](assets/documents/Meher Bhaskar Madiraju - Resume.pdf) 
 
-## ✍️ About My Blog
-
-As a Data Scientist, I am passionate about sharing my insights and experiences with the world. My blog covers various topics, including artificial intelligence, machine learning, forecasting, data science trends, and real-world applications of these technologies in the business domain.
-
-Through my blog, I aim to simplify complex concepts, share best practices, and discuss the latest advancements in the data science and tech industry. I hope to inspire others to explore the vast possibilities of these fields and encourage thoughtful discussions.
-
-You can explore all my blog posts [here](blogs)
 
 
 ## 👤 About Me
@@ -25,6 +18,11 @@ As a Data Scientist, I thrive on transforming complex data into actionable insig
 Before joining Walmart, I worked at Merkle, where my experiences ranged from creating machine learning systems that identified key sales drivers to developing models for customer churn and product pain points. I also built automated data pipelines and established robust time series frameworks, significantly improving forecasting accuracy. My role allowed me to explore various aspects of data science, including natural language processing (NLP) and customer segmentation, which helped refine marketing strategies and optimize marketing investment allocation.
 
 Throughout my career, I have always been driven by a passion for using data to solve real-world problems. Whether automating reporting processes to assess the impact of COVID-19 on business performance or enhancing personalized email campaigns to improve customer engagement, I enjoy the challenge of turning data into meaningful stories that guide strategic decisions.
+
+Through my blogs, I aim to simplify complex concepts, share best practices, and discuss the latest advancements in the data science and tech industry. I hope to inspire others to explore the vast possibilities of these fields and encourage thoughtful discussions.
+
+You can explore my blog posts [here](blogs) or on [Medium](https://medium.com/@meherbhaskar).
+
 
 ## 🛠️ Technical Experience
 

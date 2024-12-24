@@ -1,3 +1,25 @@
 title: Meher Bhaskar Madiraju
-description: A brief introduction about me.
-theme: minima
+description: About me.
+
+baseurl: "" # The base URL of the site, adjust if you're deploying to a subdirectory
+url: "https://meherbhaskar.github.io" # Your GitHub Pages URL, adjust accordingly
+
+# Markdown processor
+markdown: kramdown
+
+# Exclude files from being processed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+# Set the default layout for your pages
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+# Specify the theme (optional if you're using a custom theme)
+theme: minima # You can change this to any theme you prefer
+
