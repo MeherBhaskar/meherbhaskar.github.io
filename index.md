@@ -6,9 +6,14 @@ layout: default
 ![Meher Bhaskar Madiraju](assets/images/profile.jpeg){: .profile-image }
 
 
-**📧 Email:** [![Email](https://img.shields.io/badge/meherbhaskar.madiraju@gmail.com-blue?style=flat&logo=gmail)](mailto:meherbhaskar.madiraju@gmail.com)  
-**🔗 LinkedIn:** [![LinkedIn](https://img.shields.io/badge/MeherBhaskar-blue?style=flat&logo=linkedin)](https://linkedin.com/in/meherbhaskar)  
-**📄 Resume:** [![Resume](https://img.shields.io/badge/View_My_Resume-lightgrey?style=flat&logo=pdf)](assets/documents/Meher Bhaskar Madiraju - Resume.pdf) 
+**📧 Email:**  [![Email](https://img.shields.io/badge/meherbhaskar.madiraju@gmail.com-blue?style=flat&logo=gmail)](mailto:meherbhaskar.madiraju@gmail.com)
+
+**🔗 LinkedIn:**  [![LinkedIn](https://img.shields.io/badge/MeherBhaskar-blue?style=flat&logo=linkedin)](https://linkedin.com/in/meherbhaskar)
+
+**📄 Resume:**  [![Resume](https://img.shields.io/badge/View_My_Resume-lightgrey?style=flat&logo=pdf)](assets/documents/Meher Bhaskar Madiraju - Resume.pdf)
+
+**📝 Medium Blog:**  [![Medium](https://img.shields.io/badge/Visit_My_Blog-lightgreen?style=flat&logo=medium)](https://meherbhaskar.medium.com/)
+
 
 
 
@@ -19,9 +24,7 @@ Before joining Walmart, I worked at Merkle, where my experiences ranged from cre
 
 Throughout my career, I have always been driven by a passion for using data to solve real-world problems. Whether automating reporting processes to assess the impact of COVID-19 on business performance or enhancing personalized email campaigns to improve customer engagement, I enjoy the challenge of turning data into meaningful stories that guide strategic decisions.
 
-Through my blogs, I aim to simplify complex concepts, share best practices, and discuss the latest advancements in the data science and tech industry. I hope to inspire others to explore the vast possibilities of these fields and encourage thoughtful discussions.
-
-You can explore my blog posts [here](blogs) or on [Medium](https://medium.com/@meherbhaskar).
+Through my blogs, I aim to simplify complex concepts, share best practices, and discuss the latest advancements in the data science and tech industry. I hope to inspire others to explore the vast possibilities of these fields and encourage thoughtful discussions. You can explore my blog posts [here](blogs) or on [Medium](https://medium.com/@meherbhaskar).
 
 
 ## 🛠️ Technical Experience
