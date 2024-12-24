@@ -52,7 +52,3 @@ Manipal Institute of Technology, *2016 - 2020*
 - **Big Data Technologies**: Apache Spark, Hadoop
 - **Version Control**: Git, GitHub
 - **Collaboration Tools**: Jira, Confluence
-
-## 📝 Blogs  
-Check out my blogs where I share insights and learnings from my journey in data science:  
-- [Understanding Time Series Forecasting with DeepAR](https://medium.com/@meherbhaskar/understanding-time-series-forecasting-with-deepar-123456)  
