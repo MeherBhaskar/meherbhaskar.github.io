@@ -16,9 +16,7 @@ As a Data Scientist, I am passionate about sharing my insights and experiences w
 
 Through my blog, I aim to simplify complex concepts, share best practices, and discuss the latest advancements in the data science and tech industry. I hope to inspire others to explore the vast possibilities of these fields and encourage thoughtful discussions.
 
-You can explore all my blog posts here:
-
-- [View All Blogs](blogs)
+You can explore all my blog posts [here](blogs)
 
 
 ## 👤 About Me
