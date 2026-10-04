@@ -1,25 +1,50 @@
-title: Meher Bhaskar Madiraju
-description: About me.
+title: Meher Bhaskar
+tagline: Notes on agentic AI that survives production.
+description: "Practitioner notes on building agentic AI that survives production: evals, multi-agent systems, LLM benchmarking, and the engineering in between. By Meher Bhaskar Madiraju."
+url: "https://meherbhaskar.github.io"
+baseurl: ""
 
-baseurl: "" # The base URL of the site, adjust if you're deploying to a subdirectory
-url: "https://meherbhaskar.github.io" # Your GitHub Pages URL, adjust accordingly
+author:
+  name: Meher Bhaskar Madiraju
+  short_name: Meher Bhaskar
+  email: meherbhaskar.madiraju@gmail.com
+  github: MeherBhaskar
+  linkedin: meherbhaskar
+  medium: meherbhaskar
+  scholar: https://scholar.google.com/citations?hl=en&user=FxAZvUIAAAAJ
+  orcid: 0009-0002-1454-0668
+  website: https://meherbhaskar.github.io
 
-# Markdown processor
 markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: highlight
 
-# Exclude files from being processed
-exclude:
-  - Gemfile
-  - Gemfile.lock
+permalink: /:year/:month/:day/:title/
+excerpt_separator: <!--more-->
 
-# Set the default layout for your pages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Meher Bhaskar"
   - scope:
       path: ""
       type: "pages"
     values:
-      layout: "default"
+      layout: "page"
 
-# Specify the theme (optional if you're using a custom theme)
-theme: minima # You can change this to any theme you prefer
-
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - site-build-notes.md
