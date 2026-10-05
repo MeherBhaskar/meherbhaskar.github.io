@@ -2,7 +2,7 @@
 layout: post
 title: "Your Agent Works in the Demo. Production Eats It."
 description: "Five failure modes that kill AI agents between the demo and production, with concrete fixes for each, from running agentic AI at retail scale."
-date: 2026-10-06
+date: 2026-10-04
 tags: [agentic-ai, production, evals]
 ---
 

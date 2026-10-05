@@ -8,4 +8,4 @@ tags: [retail, forecasting, machine-learning]
 
 In this post, I explore how artificial intelligence and machine learning are transforming retail demand forecasting: how retailers leverage these technologies to optimize inventory management, strategically place products, and dynamically adjust pricing.
 
-[Read the full article on Medium](https://meherbhaskar.medium.com/how-ai-and-machine-learning-are-revolutionizing-retail-demand-forecasting-...)
+[Read the full article on Medium](https://meherbhaskar.medium.com/how-ai-and-machine-learning-are-revolutionizing-retail-demand-forecasting-9cacdf791906)
