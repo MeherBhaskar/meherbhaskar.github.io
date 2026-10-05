@@ -4,6 +4,7 @@ title: Meher Bhaskar, notes on agentic AI that survives production
 ---
 
 <section class="hero">
+  <p class="kicker">Personal blog</p>
   <h1>Meher Bhaskar</h1>
   <p class="tagline">Notes on agentic AI that survives production.</p>
   <p class="intro">I'm a Senior Data Scientist building production agentic AI at retail scale. I write about what breaks between the demo and production: evals, multi-agent systems, benchmarking, and the engineering in between. Deeply useful, no fluff, new notes every few days.</p>
