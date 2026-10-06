@@ -285,7 +285,7 @@ pre code { background: none; padding: 0; border: none; }
 .hero-top h1 { margin: 0 0 .3rem; }
 .hero-top .tagline { margin: 0; }
 @media (max-width: 600px) {
-  .hero-top { gap: 1rem; }
+  .hero-top { flex-direction: column; align-items: flex-start; gap: 1rem; }
   .avatar { width: 84px; height: 84px; }
 }
 
