@@ -4,10 +4,10 @@ title: Meher Bhaskar, notes on agentic AI that survives production
 ---
 
 <section class="hero">
-  <p class="kicker">Senior Data Scientist &middot; Production Agentic AI</p>
+  <p class="kicker">AI Engineer &middot; Agentic AI</p>
   <h1>Meher Bhaskar</h1>
   <p class="tagline">I build agentic AI that survives production.</p>
-  <p class="intro">I'm Meher Bhaskar Madiraju, a Senior Data Scientist at Walmart Global Tech in Bentonville. I build production agentic AI systems at retail scale: multi-agent systems for real business workflows used across 600+ locations, a multi-agent hyperparameter tuning platform, and geography-based demand forecasting. I write here about what breaks between the demo and production: evals, orchestration, benchmarking, and the engineering in between. Deeply useful, no fluff, new notes every few days.</p>
+  <p class="intro">I'm Meher Bhaskar Madiraju. I build production agentic AI systems at retail scale: multi-agent systems for real business workflows, with the evals, orchestration, and operating discipline that keep them alive in production. I write here about what breaks between the demo and production, and I research how to benchmark the agents we ship.</p>
   <p class="social">
     <a href="mailto:meherbhaskar.madiraju@gmail.com">Email</a>
     <a href="https://github.com/MeherBhaskar">GitHub</a>
@@ -20,23 +20,23 @@ title: Meher Bhaskar, notes on agentic AI that survives production
 <section class="section">
   <h2>Proof, not promises</h2>
   <div class="stats">
-    <div class="stat"><strong>600+</strong><span>retail locations running production agentic AI I built</span></div>
     <div class="stat"><strong>26</strong><span>essays on production AI, published monthly since September 2024</span></div>
+    <div class="stat"><strong>48h</strong><span>cadence: new notes on production AI every two days</span></div>
     <div class="stat"><strong>4</strong><span>research papers on arXiv on benchmarking AI agents</span></div>
     <div class="stat"><strong>2026</strong><span>speaker, OMS Analytics Conference at Georgia Tech</span></div>
   </div>
 </section>
 
 <section class="section">
-  <h2>What I build</h2>
+  <h2>What I work on</h2>
   <div class="cards">
     <div class="card">
-      <h3>Production agentic AI</h3>
-      <p>Multi-agent systems for real business workflows at retail scale, live across 600+ locations. The full lifecycle: tool design, orchestration patterns, fallback ladders, cost and latency budgets, and operating agents like real services.</p>
+      <h3>Agentic AI in production</h3>
+      <p>Multi-agent systems for real business workflows, live at retail scale. Tool design, orchestration patterns, fallback ladders, cost and latency budgets, and operating agents like real services.</p>
     </div>
     <div class="card">
-      <h3>ML platforms and forecasting</h3>
-      <p>A multi-agent platform for hyperparameter optimization, plus geography-based demand forecasting that feeds real planning decisions.</p>
+      <h3>Multi-agent systems</h3>
+      <p>Designing agents that work together: coordination, state, and the failure modes that live at the seams. The patterns that hold up under load, and the ones that don't.</p>
     </div>
     <div class="card">
       <h3>Agent evaluation and benchmarking</h3>
@@ -53,17 +53,6 @@ title: Meher Bhaskar, notes on agentic AI that survives production
   </div>
 </section>
 
-<section class="section">
-  <h2>Background</h2>
-  <ul class="timeline">
-    <li><strong>Senior Data Scientist, Walmart Global Tech</strong>, <span class="when">Bentonville, Jul 2023 to present</span></li>
-    <li><strong>Data Scientist, Merkle Inc.</strong>, <span class="when">Atlanta, 2022 to 2023; Bengaluru, 2020 to 2022</span></li>
-    <li><strong>MS Analytics, Georgia Tech</strong>, <span class="when">2022 to 2024</span></li>
-    <li><strong>B.Tech Computer Science, Manipal</strong>, <span class="when">2016 to 2020</span></li>
-  </ul>
-  <p>Research: <a href="https://scholar.google.com/citations?hl=en&user=FxAZvUIAAAAJ">Google Scholar</a> &middot; <a href="https://orcid.org/0009-0002-1454-0668">ORCID</a>. The longer version: <a href="{{ '/about/' | relative_url }}">about me</a>.</p>
-</section>
-
 <section class="post-list">
   <h2>Latest writing</h2>
   {% for post in site.posts limit: 8 %}
@@ -78,6 +67,6 @@ title: Meher Bhaskar, notes on agentic AI that survives production
 
 <section class="section cta">
   <h2>Working on agents in production?</h2>
-  <p class="section-sub">I'm always up for talking shop about agentic AI, evals, and multi-agent systems. The best way to reach me is email.</p>
+  <p class="section-sub">I'm always up for talking shop about agentic AI, evals, and multi-agent systems. The best way to reach me is email. <a href="{{ '/about/' | relative_url }}">More about me</a>.</p>
   <p><a class="btn" href="mailto:meherbhaskar.madiraju@gmail.com">meherbhaskar.madiraju@gmail.com</a></p>
 </section>
