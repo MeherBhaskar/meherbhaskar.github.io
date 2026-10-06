@@ -273,6 +273,22 @@ pre code { background: none; padding: 0; border: none; }
 .page-content p { margin: 0 0 1.3rem; color: var(--ink); }
 .page-content a { font-weight: 500; }
 
+/* Hero with photo */
+
+.hero-top { display: flex; align-items: center; gap: 1.5rem; margin: 0 0 1.2rem; }
+.avatar {
+  width: 104px; height: 104px; border-radius: 50%; object-fit: cover;
+  border: 3px solid var(--surface); box-shadow: 0 0 0 1px var(--line);
+  flex-shrink: 0;
+}
+.hero-top .kicker { margin: 0 0 .35rem; }
+.hero-top h1 { margin: 0 0 .3rem; }
+.hero-top .tagline { margin: 0; }
+@media (max-width: 600px) {
+  .hero-top { gap: 1rem; }
+  .avatar { width: 84px; height: 84px; }
+}
+
 /* Sections (landing page) */
 
 .section { padding: 1.2rem 0 1.8rem; }

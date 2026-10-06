@@ -4,9 +4,14 @@ title: Meher Bhaskar, notes on agentic AI that survives production
 ---
 
 <section class="hero">
-  <p class="kicker">AI Engineer &middot; Agentic AI</p>
-  <h1>Meher Bhaskar</h1>
-  <p class="tagline">I build agentic AI that survives production.</p>
+  <div class="hero-top">
+    <img class="avatar" src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Meher Bhaskar" width="104" height="104">
+    <div>
+      <p class="kicker">Agentic AI Engineer</p>
+      <h1>Meher Bhaskar</h1>
+      <p class="tagline">I build agentic AI that survives production.</p>
+    </div>
+  </div>
   <p class="intro">I'm Meher Bhaskar Madiraju, a Senior Data Scientist at Walmart Global Tech. I build production agentic AI systems at retail scale: multi-agent systems for real business workflows, with the evals, orchestration, and operating discipline that keep them alive in production. I write here about what breaks between the demo and production, and I research how to benchmark the agents we ship.</p>
   <p class="social">
     <a href="mailto:meherbhaskar.madiraju@gmail.com">Email</a>
@@ -22,7 +27,7 @@ title: Meher Bhaskar, notes on agentic AI that survives production
   <div class="cards">
     <div class="card">
       <h3>Agentic AI in production</h3>
-      <p>Multi-agent systems for real business workflows, live at retail scale. Tool design, orchestration patterns, fallback ladders, cost and latency budgets, and operating agents like real services.</p>
+      <p>Multi-agent systems for real business workflows, running in production. Tool design, orchestration patterns, fallback ladders, cost and latency budgets, and operating agents like real services.</p>
     </div>
     <div class="card">
       <h3>Multi-agent systems</h3>

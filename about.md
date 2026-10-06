@@ -13,7 +13,7 @@ My work centers on one question: what breaks when agents move from demo to produ
 
 Three threads run through everything I do:
 
-- **Agentic AI in production.** Multi-agent systems for real business workflows, live at retail scale. Tool design, orchestration patterns, fallback ladders, and the operating discipline that keeps agents alive.
+- **Agentic AI in production.** Multi-agent systems for real business workflows, running in production. Tool design, orchestration patterns, fallback ladders, and the operating discipline that keeps agents alive.
 - **Multi-agent systems.** How agents coordinate, where state lives, and the failure modes that hide at the seams between agents.
 - **Agent evaluation and benchmarking.** Research on measuring what AI agents actually do, including RigorBench and Benchmark Radar.
 
