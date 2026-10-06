@@ -12,7 +12,7 @@ title: Meher Bhaskar, notes on agentic AI that survives production
       <p class="tagline">I build agentic AI that survives production.</p>
     </div>
   </div>
-  <p class="intro">I'm Meher Bhaskar Madiraju, a Senior Data Scientist at Walmart Global Tech. I build production agentic AI systems at retail scale: multi-agent systems for real business workflows, with the evals, orchestration, and operating discipline that keep them alive in production. I write here about what breaks between the demo and production, and I research how to benchmark the agents we ship.</p>
+  <p class="intro">Senior Data Scientist at Walmart Global Tech. I ship production agentic AI systems, research how to benchmark them, and write about what breaks between the demo and production.</p>
   <p class="social">
     <a href="mailto:meherbhaskar.madiraju@gmail.com">Email</a>
     <a href="https://github.com/MeherBhaskar">GitHub</a>
@@ -26,16 +26,16 @@ title: Meher Bhaskar, notes on agentic AI that survives production
   <h2>What I do</h2>
   <div class="cards">
     <div class="card">
-      <h3>Agentic AI in production</h3>
-      <p>Multi-agent systems for real business workflows, running in production. Tool design, orchestration patterns, fallback ladders, cost and latency budgets, and operating agents like real services.</p>
+      <h3>Builder</h3>
+      <p>Production agentic AI systems for real business workflows. Tool design, orchestration patterns, fallback ladders, cost and latency budgets, and operating agents like real services.</p>
     </div>
     <div class="card">
-      <h3>Multi-agent systems</h3>
-      <p>Designing agents that work together: coordination, state, and the failure modes that live at the seams. The patterns that hold up under load, and the ones that don't.</p>
+      <h3>Researcher</h3>
+      <p>Research on benchmarking AI agents, including RigorBench and Benchmark Radar. Four papers on arXiv. Volunteer reviewer for TMLR.</p>
     </div>
     <div class="card">
-      <h3>Agent evaluation and benchmarking</h3>
-      <p>RigorBench and Benchmark Radar: research on measuring what AI agents actually do, because benchmarks measure benchmarks until you fix the methodology.</p>
+      <h3>Writer</h3>
+      <p>Practitioner notes every two days on what breaks between the demo and production. Concrete patterns you can steal, strong opinions, no fluff.</p>
     </div>
   </div>
 </section>
@@ -43,7 +43,7 @@ title: Meher Bhaskar, notes on agentic AI that survives production
 <section class="section">
   <h2>Talks</h2>
   <div class="talk">
-    <p class="talk-title">"Beyond the Prototype: Engineering Agentic AI for Production"</p>
+    <p class="talk-title">"Beyond the Prototype: Engineering Agentic AI for Production" <span class="badge">Upcoming</span></p>
     <p class="talk-meta">OMS Analytics Conference, Georgia Tech &middot; October 9, 2026</p>
   </div>
   <div class="talk">
@@ -54,19 +54,19 @@ title: Meher Bhaskar, notes on agentic AI that survives production
 
 <section class="section">
   <h2>Research</h2>
-  <p>Four research papers on arXiv on benchmarking AI agents, including RigorBench and Benchmark Radar. I've volunteered as a reviewer for TMLR. Profiles: <a href="https://scholar.google.com/citations?hl=en&user=FxAZvUIAAAAJ">Google Scholar</a> &middot; <a href="https://orcid.org/0009-0002-1454-0668">ORCID</a>.</p>
+  <p>Four arXiv papers on benchmarking AI agents, including RigorBench and Benchmark Radar. Volunteer reviewer for TMLR. Profiles: <a href="https://scholar.google.com/citations?hl=en&user=FxAZvUIAAAAJ">Google Scholar</a> &middot; <a href="https://orcid.org/0009-0002-1454-0668">ORCID</a>.</p>
 </section>
 
 <section class="post-list">
   <h2>Writing</h2>
-  {% for post in site.posts limit: 8 %}
+  {% for post in site.posts limit: 6 %}
   <article class="post-card">
     <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}{% if post.tags and post.tags.size > 0 %} &middot; {% for tag in post.tags %}<span class="tag">{{ tag }}</span>{% endfor %}{% endif %}</p>
     <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
     <p class="excerpt">{{ post.description | default: post.excerpt | strip_html | truncate: 180 }}</p>
   </article>
   {% endfor %}
-  <p><a href="{{ '/archive/' | relative_url }}">All posts</a></p>
+  <p><a href="{{ '/archive/' | relative_url }}">Browse the full archive</a></p>
 </section>
 
 <section class="section cta">

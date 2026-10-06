@@ -106,7 +106,7 @@ a { color: var(--accent-ink); text-decoration-thickness: 1px; text-underline-off
   font-family: var(--serif); font-style: italic;
   font-size: 1.35rem; color: var(--accent-ink); margin: 0 0 1.1rem;
 }
-.hero .intro { color: var(--muted); max-width: 37rem; margin: 0 0 1.6rem; font-size: 1.02rem; }
+.hero .intro { color: var(--ink); max-width: 36rem; margin: 0 0 1.6rem; font-size: 1.08rem; line-height: 1.65; }
 .hero .social { display: flex; flex-wrap: wrap; gap: .55rem; }
 .hero .social a {
   display: inline-block; padding: .42rem .95rem; border-radius: 999px;
@@ -336,6 +336,15 @@ pre code { background: none; padding: 0; border: none; }
   margin: 0 0 .4rem; letter-spacing: -0.01em;
 }
 .talk .talk-meta { color: var(--muted); font-size: .92rem; margin: 0; }
+
+.badge {
+  display: inline-block; vertical-align: middle;
+  font-family: var(--sans); font-style: normal;
+  font-size: .7rem; font-weight: 700; letter-spacing: .09em; text-transform: uppercase;
+  color: var(--accent-ink); border: 1px solid var(--accent);
+  border-radius: 999px; padding: .16rem .65rem; margin-left: .5rem;
+  transform: translateY(-2px);
+}
 
 .timeline { list-style: none; padding: 0; margin: 0 0 1.2rem; }
 .timeline li {

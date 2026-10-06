@@ -7,21 +7,20 @@ description: Who writes this, and why.
 
 I'm **Meher Bhaskar Madiraju**. I build production agentic AI systems at retail scale and write about what breaks when agents move from demo to production.
 
-## What I work on
+## What I do
 
-My work centers on one question: what breaks when agents move from demo to production? The answers I keep finding are evaluation, orchestration, benchmarking, cost and latency discipline, and operating agents like real services. I write about these here with concrete patterns you can steal, and I build them in my day job as a Senior Data Scientist.
+Three hats, one question: what breaks when agents move from demo to production?
 
-Three threads run through everything I do:
+- **Builder.** Senior Data Scientist at Walmart Global Tech in Bentonville. I ship production agentic AI systems for real business workflows: tool design, orchestration patterns, fallback ladders, cost and latency budgets, and operating agents like real services.
+- **Researcher.** I study how to benchmark AI agents, including RigorBench and Benchmark Radar. Four papers on arXiv. Volunteer reviewer for TMLR.
+- **Writer.** Practitioner notes every two days on what breaks between the demo and production: concrete patterns you can steal, strong opinions, no fluff.
 
-- **Agentic AI in production.** Multi-agent systems for real business workflows, running in production. Tool design, orchestration patterns, fallback ladders, and the operating discipline that keeps agents alive.
-- **Multi-agent systems.** How agents coordinate, where state lives, and the failure modes that hide at the seams between agents.
-- **Agent evaluation and benchmarking.** Research on measuring what AI agents actually do, including RigorBench and Benchmark Radar.
+## Speaking
 
-## Research and speaking
+- "Beyond the Prototype: Engineering Agentic AI for Production", OMS Analytics Conference at Georgia Tech, October 2026 (upcoming)
+- "From PoC to Production: Deploying Agentic AI at Enterprise Scale", NWA TechFest, August 2026
 
-I have four research papers on arXiv on benchmarking AI agents, and I've volunteered as a reviewer for TMLR. I've spoken at NWA TechFest (August 2026, "From PoC to Production: Deploying Agentic AI at Enterprise Scale") and the OMS Analytics Conference at Georgia Tech (October 2026, "Beyond the Prototype: Engineering Agentic AI for Production").
-
-My research profiles: [Google Scholar](https://scholar.google.com/citations?hl=en&user=FxAZvUIAAAAJ) · [ORCID](https://orcid.org/0009-0002-1454-0668)
+## Research
 
 ## Day to day
 
