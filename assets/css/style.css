@@ -312,8 +312,9 @@ pre code { background: none; padding: 0; border: none; }
 
 .talk {
   background: var(--accent-soft); border: 1px solid var(--line);
-  border-radius: 14px; padding: 1.4rem 1.5rem;
+  border-radius: 14px; padding: 1.4rem 1.5rem; margin-bottom: 1rem;
 }
+.talk:last-child { margin-bottom: 0; }
 .talk .talk-title {
   font-family: var(--serif); font-size: 1.3rem; font-weight: 600;
   margin: 0 0 .4rem; letter-spacing: -0.01em;

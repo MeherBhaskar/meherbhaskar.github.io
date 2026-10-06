@@ -7,7 +7,7 @@ title: Meher Bhaskar, notes on agentic AI that survives production
   <p class="kicker">AI Engineer &middot; Agentic AI</p>
   <h1>Meher Bhaskar</h1>
   <p class="tagline">I build agentic AI that survives production.</p>
-  <p class="intro">I'm Meher Bhaskar Madiraju. I build production agentic AI systems at retail scale: multi-agent systems for real business workflows, with the evals, orchestration, and operating discipline that keep them alive in production. I write here about what breaks between the demo and production, and I research how to benchmark the agents we ship.</p>
+  <p class="intro">I'm Meher Bhaskar Madiraju, a Senior Data Scientist at Walmart Global Tech. I build production agentic AI systems at retail scale: multi-agent systems for real business workflows, with the evals, orchestration, and operating discipline that keep them alive in production. I write here about what breaks between the demo and production, and I research how to benchmark the agents we ship.</p>
   <p class="social">
     <a href="mailto:meherbhaskar.madiraju@gmail.com">Email</a>
     <a href="https://github.com/MeherBhaskar">GitHub</a>
@@ -18,17 +18,7 @@ title: Meher Bhaskar, notes on agentic AI that survives production
 </section>
 
 <section class="section">
-  <h2>Proof, not promises</h2>
-  <div class="stats">
-    <div class="stat"><strong>26</strong><span>essays on production AI, published monthly since September 2024</span></div>
-    <div class="stat"><strong>48h</strong><span>cadence: new notes on production AI every two days</span></div>
-    <div class="stat"><strong>4</strong><span>research papers on arXiv on benchmarking AI agents</span></div>
-    <div class="stat"><strong>2026</strong><span>speaker, OMS Analytics Conference at Georgia Tech</span></div>
-  </div>
-</section>
-
-<section class="section">
-  <h2>What I work on</h2>
+  <h2>What I do</h2>
   <div class="cards">
     <div class="card">
       <h3>Agentic AI in production</h3>
@@ -46,15 +36,24 @@ title: Meher Bhaskar, notes on agentic AI that survives production
 </section>
 
 <section class="section">
-  <h2>Speaking</h2>
+  <h2>Talks</h2>
   <div class="talk">
     <p class="talk-title">"Beyond the Prototype: Engineering Agentic AI for Production"</p>
     <p class="talk-meta">OMS Analytics Conference, Georgia Tech &middot; October 9, 2026</p>
   </div>
+  <div class="talk">
+    <p class="talk-title">"From PoC to Production: Deploying Agentic AI at Enterprise Scale"</p>
+    <p class="talk-meta">NWA TechFest &middot; August 26, 2026</p>
+  </div>
+</section>
+
+<section class="section">
+  <h2>Research</h2>
+  <p>Four research papers on arXiv on benchmarking AI agents, including RigorBench and Benchmark Radar. I've volunteered as a reviewer for TMLR. Profiles: <a href="https://scholar.google.com/citations?hl=en&user=FxAZvUIAAAAJ">Google Scholar</a> &middot; <a href="https://orcid.org/0009-0002-1454-0668">ORCID</a>.</p>
 </section>
 
 <section class="post-list">
-  <h2>Latest writing</h2>
+  <h2>Writing</h2>
   {% for post in site.posts limit: 8 %}
   <article class="post-card">
     <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}{% if post.tags and post.tags.size > 0 %} &middot; {% for tag in post.tags %}<span class="tag">{{ tag }}</span>{% endfor %}{% endif %}</p>

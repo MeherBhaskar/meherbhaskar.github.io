@@ -19,7 +19,7 @@ Three threads run through everything I do:
 
 ## Research and speaking
 
-I have four research papers on arXiv on benchmarking AI agents, and I've volunteered as a reviewer for TMLR. In October 2026 I spoke at the OMS Analytics Conference at Georgia Tech with the talk "Beyond the Prototype: Engineering Agentic AI for Production".
+I have four research papers on arXiv on benchmarking AI agents, and I've volunteered as a reviewer for TMLR. I've spoken at NWA TechFest (August 2026, "From PoC to Production: Deploying Agentic AI at Enterprise Scale") and the OMS Analytics Conference at Georgia Tech (October 2026, "Beyond the Prototype: Engineering Agentic AI for Production").
 
 My research profiles: [Google Scholar](https://scholar.google.com/citations?hl=en&user=FxAZvUIAAAAJ) · [ORCID](https://orcid.org/0009-0002-1454-0668)
 
