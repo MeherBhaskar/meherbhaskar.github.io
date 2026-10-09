@@ -43,7 +43,7 @@ title: Meher Bhaskar, notes on agentic AI that survives production
 <section class="section">
   <h2>Talks</h2>
   <div class="talk">
-    <p class="talk-title">"Beyond the Prototype: Engineering Agentic AI for Production" <span class="badge">Upcoming</span></p>
+    <p class="talk-title">"Beyond the Prototype: Engineering Agentic AI for Production"</p>
     <p class="talk-meta">OMS Analytics Conference, Georgia Tech &middot; October 9, 2026</p>
   </div>
   <div class="talk">

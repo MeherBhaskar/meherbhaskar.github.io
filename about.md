@@ -17,7 +17,7 @@ Three hats, one question: what breaks when agents move from demo to production?
 
 ## Speaking
 
-- "Beyond the Prototype: Engineering Agentic AI for Production", OMS Analytics Conference at Georgia Tech, October 2026 (upcoming)
+- "Beyond the Prototype: Engineering Agentic AI for Production", OMS Analytics Conference at Georgia Tech, October 2026
 - "From PoC to Production: Deploying Agentic AI at Enterprise Scale", NWA TechFest, August 2026
 
 ## Research
